@@ -1,0 +1,11 @@
+  $background-color:  #c0af9e;
+  @mixin mixin-ali() {
+    margin: 10;
+  }
+
+div{
+      @include mixin-ali();
+}
+  body{
+    background-color: $background-color;
+  }

@@ -1,0 +1,17 @@
+div {
+  margin: 10;
+}
+
+body {
+  background-color: #c0af9e;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=style.css.map */
